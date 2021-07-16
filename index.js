@@ -49,19 +49,19 @@ const { ind } = require('./bahasa')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Nurulツ\n' //ganti nama lu! 
-            + 'ORG: Owner Manca-Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-6151\n'  //ganti nomor lu! 
+            + 'FN: Kagetstore\n' //ganti nama lu! 
+            + 'ORG: Owner Kagetstore-Bot;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6288298895431:+62 882-9889-5431\n'  //ganti nomor lu! 
             + 'END:VCARD'
 prefix = '_'
 blocked = []   
 limitawal = 10000
 memberlimit = 1
-cr = '*𝙈𝘼𝙉𝘾𝘼-𝘽𝙊𝙏-𝙑𝙀𝙍𝙄𝙁𝙄𝙀𝘿̶*'
+cr = '*KAGETSTORE-𝘽𝙊𝙏-𝙑𝙀𝙍𝙄𝙁𝙄𝙀𝘿̶*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6283815956151@s.whatsapp.net"]   //ganti nomor lu! 
-const pacarNumber = ["6282243603393@s.whatsapp.net"]  //ganti nomor lu!  
+const ownerNumber = ["6288298895431@s.whatsapp.net"]   //ganti nomor lu! 
+
 /************************************/
 
        
@@ -3543,12 +3543,12 @@ chika.on('group-participants-update', async (anu) => {
 
 ╭❑➤─| ─━─ ⊱✿⊰ ─━─ |─➤✿
 │
-│ ♡ۣۜۜ፝͜͜͡͡✿➤ Nama: 𝙈𝘼𝙉𝘾𝘼-𝘽𝙊𝙏
+│ ♡ۣۜۜ፝͜͜͡͡✿➤ Nama: KAGETSTORE-𝘽𝙊𝙏
 │ ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 3.0
 │ ♡ۣۜۜ፝͜͜͡͡✿➤ Owner: 𝙉𝙐𝙍𝙐𝙇ツ
 │ ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/6282136099756
 │ 
-╰❑➤─| 𝙼𝙰𝙽𝙲𝙰 ⊱✿⊰ 𝙱𝙾𝚃 |─➤✿°࿐
+╰❑➤─| KAGET ⊱✿⊰ 𝙱𝙾𝚃 |─➤✿°࿐
 
 ╭──━─── ❀۝❀ ───━──╮
 =       *𝙔𝙊𝙐𝙍 𝙄𝙉𝙁𝙊*       =
@@ -3563,7 +3563,7 @@ chika.on('group-participants-update', async (anu) => {
 │ ♡ۣۜۜ፝͜͜͡͡✿➤ Level: ${getLevelingLevel(sender)}
 │ ♡ۣۜۜ፝͜͜͡͡✿➤ User register : ${_registered.length} 
 │
-╰❑➤─| 𝙼𝙰𝙽𝙲𝙰 ⊱✿⊰ 𝙱𝙾𝚃 |─➤✿°࿐
+╰❑➤─| KAGET ⊱✿⊰ 𝙱𝙾𝚃 |─➤✿°࿐
 
 ╭──━─── ❀۝❀ ───━──╮
 =          *𝘼𝘽𝙊𝙐𝙏*         =
